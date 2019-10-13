@@ -13,7 +13,7 @@ Saytu Singh
   g++ -o AlgoCalc AlgoCalc.cpp
   ./AlgoCalc
     
-2. Algorithm for Verification (Completed soleby by Saytu Singh)
+2. Algorithm for Verification (Completed solely by Saytu Singh)
 
     Execute commands:
     
